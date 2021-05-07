@@ -48,7 +48,7 @@ The first configuration is the initial configuration given in the picture above.
 
 ### Output format:
 Once the program finds a solution, save it in a file using the format described below. 
-For A* search, its solution files are named as the files puzzle1sol astar.txt and puzzle2sol astar.txt. For DFS, the solution files are named as the files puzzle1sol dfs.txt and puzzle2sol dfs.txt.
+For A* search, its solution files are named as the files puzzle1sol_astar.txt and puzzle2sol_astar.txt. For DFS, the solution files are named as the files puzzle1sol_dfs.txt and puzzle2sol_dfs.txt.
 
 Each file contains:
 * The initial configuration of the puzzle.
