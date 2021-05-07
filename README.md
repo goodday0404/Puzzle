@@ -27,6 +27,7 @@ Every time a piece moves one space in any direction, we will count it as one mov
 ### Input format:
 
 The implementations are test with two different puzzle configurations: <br/>
+<br/>
 puzzle1<br/> 
 2113<br/>
 2113<br/>
@@ -55,7 +56,7 @@ Each file contains:
 * The number of states expanded by the search algorithm. 
 * The solution.
 
-See an example of a solution file below. In this example, the solution is incomplete and the details are left out with the three dots before the final state.
+See an example of a solution file below. In this example, the solution is incomplete and the details are left out with the three dots before the final state.<br/>
 <br/>
 Initial State:<br/>
 2113<br/>
