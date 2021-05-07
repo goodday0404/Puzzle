@@ -28,11 +28,11 @@ Every time a piece moves one space in any direction, we will count it as one mov
 
 The implementations are test with two different puzzle configurations:
 puzzle1
-2113
-2113
-4665
-4775
-7007
+* 2113
+* 2113
+* 4665
+* 4775
+* 7007
 
 puzzle2
 1122
