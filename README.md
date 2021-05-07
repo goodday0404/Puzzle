@@ -29,6 +29,9 @@ Every time a piece moves one space in any direction, we will count it as one mov
 The implementations are test with two different puzzle configurations: <br/>
 <br/>
 puzzle1<br/> 
+![image](https://user-images.githubusercontent.com/28790865/117387711-5d26bc80-aeb7-11eb-8c31-2e0f8c3dbeed.png)
+
+<br/> 
 2113<br/>
 2113<br/>
 4665<br/>
@@ -37,6 +40,8 @@ puzzle1<br/>
 <br/>
 
 puzzle2<br/>
+![image](https://user-images.githubusercontent.com/28790865/117387900-b131a100-aeb7-11eb-9193-df1628020119.png)
+<br/>
 1122<br/>
 1137<br/>
 4537<br/>
