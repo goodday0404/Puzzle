@@ -30,7 +30,6 @@ The implementations are test with two different puzzle configurations: <br/>
 <br/>
 puzzle1<br/> 
 ![image](https://user-images.githubusercontent.com/28790865/117387965-cdcdd900-aeb7-11eb-9837-7314dbfd78d0.png)
-
 <br/> 
 2113<br/>
 2113<br/>
