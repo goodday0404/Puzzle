@@ -27,12 +27,12 @@ Every time a piece moves one space in any direction, we will count it as one mov
 ### Input format:
 
 The implementations are test with two different puzzle configurations:
-puzzle1
-* 2113
-* 2113
-* 4665
-* 4775
-* 7007
+> puzzle1
+> 2113
+> 2113
+> 4665
+> 4775
+> 7007
 
 puzzle2
 1122
@@ -49,10 +49,10 @@ Once the program finds a solution, save it in a file using the format described 
 For A* search, its solution files are named as the files puzzle1sol astar.txt and puzzle2sol astar.txt. For DFS, the solution files are named as the files puzzle1sol dfs.txt and puzzle2sol dfs.txt.
 
 Each file contains:
-• The initial configuration of the puzzle.
-• The cost of the solution.
-• The number of states expanded by the search algorithm. 
-• The solution.
+* The initial configuration of the puzzle.
+* The cost of the solution.
+* The number of states expanded by the search algorithm. 
+* The solution.
 
 See an example of a solution file below. In this example, the solution is incomplete and the details are left out with the three dots before the final state.
 
