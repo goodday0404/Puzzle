@@ -26,20 +26,21 @@ Every time a piece moves one space in any direction, we will count it as one mov
 
 ### Input format:
 
-The implementations are test with two different puzzle configurations:
+The implementations are test with two different puzzle configurations: <br/>
 puzzle1<br/> 
-2113\ 
-2113. 
-4665. 
-4775. 
-7007. 
+2113<br/>
+2113<br/>
+4665<br/>
+4775<br/>
+7007<br/>
+<br/>
 
-puzzle2
-1122
-1137
-4537
-4577
-0660
+puzzle2<br/>
+1122<br/>
+1137<br/>
+4537<br/>
+4577<br/>
+0660<br/>
 
 The first configuration is the initial configuration given in the picture above. Note that all the single-space pieces are denoted by 7. The two puzzle configurations will be provided in two files named puzzle1.txt and puzzle2.txt. You can hard-code these files names in your program. 
 
@@ -55,53 +56,53 @@ Each file contains:
 * The solution.
 
 See an example of a solution file below. In this example, the solution is incomplete and the details are left out with the three dots before the final state.
+<br/>
+Initial State:<br/>
+2113<br/>
+2113<br/>
+4665<br/>
+4775<br/>
+7007<br/>
+<br/>
+Cost of the solution: 116 <br/>
 
-Initial State:
-2113
-2113
-4665
-4775
-7007
-
-Cost of the solution: 116
-
-Number of states expanded: 438177
-
-Solution:
-
-0
-2113
-2113
-4665
-4775
-7007
-
-1
-2113
-2113
-4665
-4775
-7070
-
-2
-2113
-2113
-4660
-4775
-7075
-
-3
-2113
-2113
-4660
-4775
-0775
-
-...
-
-116
-3254
-3254
-6677
-7110
-7110
+Number of states expanded: 438177 <br/>
+<br/>
+Solution: <br/>
+<br/>
+0 <br/>
+2113<br/>
+2113<br/>
+4665<br/>
+4775<br/>
+7007<br/>
+<br/>
+1<br/>
+2113<br/>
+2113<br/>
+4665<br/>
+4775<br/>
+7070<br/>
+<br/>
+2<br/>
+2113<br/>
+2113<br/>
+4660<br/>
+4775<br/>
+7075<br/>
+<br/>
+3<br/>
+2113<br/>
+2113<br/>
+4660<br/>
+4775<br/>
+0775<br/>
+<br/>
+...<br/>
+<br/>
+116<br/>
+3254<br/>
+3254<br/>
+6677<br/>
+7110<br/>
+7110<br/>
